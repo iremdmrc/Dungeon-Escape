@@ -1,0 +1,16 @@
+.vs/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Windows/
+
+*.sln
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.userprefs
+
+.DS_Store
+Thumbs.db
