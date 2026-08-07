@@ -70,7 +70,6 @@ A playable Windows build will be available through GitHub Releases.
 5. Open the main level and press Play.
 
 ## Developer
-Tugba Irem Demirci
 
 **Tugba Irem Demirci**
 
